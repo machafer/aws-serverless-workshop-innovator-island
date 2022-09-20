@@ -10,7 +10,7 @@ FINAL_BUCKET=$(aws cloudformation describe-stack-resource --stack-name theme-par
 
 aws lambda create-function \
     --function-name theme-park-photos-postprocess   \
-    --runtime nodejs12.x \
+    --runtime nodejs14.x \
     --zip-file fileb://3-photos-3-postprocess.zip \
     --handler app.handler \
     --role $LAMBDA_ROLE_ARN \

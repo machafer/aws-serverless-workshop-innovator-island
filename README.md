@@ -1,8 +1,8 @@
 ## Welcome to the Innovator Island workshop!
 
-![InnovatorIsland](./images/innovator-island_logo.png)
+![InnovatorIsland](./static/images/innovator-island_logo.png)
 
-For workshop instructions, visit the [workshop's new instructions site](https://www.eventbox.dev/published/lesson/innovator-island/)
+For workshop instructions, visit the [workshop's new instructions site](https://s12d.com/innovator-island)
 
 ### Have an idea for this workshop? Found a bug? ###
 

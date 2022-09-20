@@ -1,0 +1,15 @@
+defaultLocaleCode: en
+localeCodes:
+- en
+params:
+  author: James Beswick
+  description: Innovator Island workshop
+  disableAssetsBusting: true
+  disableBreadcrumb: false
+  disableInlineCopyToClipBoard: true
+  disableLanguageSwitchingButton: true
+  disableNextPrev: false
+  disableSearch: true
+  disableShortcutsTitle: true
+  themeVariant: aws
+version: 2.0
